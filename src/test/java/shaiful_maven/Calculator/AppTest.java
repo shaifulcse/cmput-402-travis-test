@@ -38,6 +38,6 @@ public class AppTest
     public void testAdd() {
     	
     	App app =new App();
-    	assertTrue(5==app.add(2, 3));
+    	assertTrue(4==app.add(2, 3));
     }
 }
