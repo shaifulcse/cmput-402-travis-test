@@ -76,3 +76,14 @@ Example of the pom.xml
 
 we can show the students how to create executable jar for the tictactoe
 
+
+Different maven commands:
+
+mvn clean: will clean everything (i.e., remove target)
+mvn compile: will compile only the source code (see the class file)
+mvn test-compile: will compile the test file as well. 
+mvn package: will create the jar file
+mvn install: will deploy the jar file into the local maven repos
+
+
+
