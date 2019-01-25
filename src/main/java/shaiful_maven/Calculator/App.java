@@ -22,5 +22,13 @@ public class App
     	return x*y;
     }
 
-    
+    public int division(int x, int y) {
+    	
+    	return x*y;// intentional mistake
+    }
+	
+    public int subtraction(int x, int y) {
+    	int a=5; //intentional
+    	return x-y;
+    }	
 }
